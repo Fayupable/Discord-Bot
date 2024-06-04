@@ -2,3 +2,4 @@
 .replit.nix
 .project.toml
 .poetry.lock
+venv
