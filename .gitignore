@@ -1,6 +1,0 @@
-# Ignore everything
-/*
-
-# But don't ignore these files
-!/main.py
-!/keepalive
